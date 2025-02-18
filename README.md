@@ -1,7 +1,7 @@
 # Gmail Sender Application
 
 
-# Overview
+# Overview 
 This is a Python-based Gmail sender application with a user-friendly GUI built using PyQt6. It allows users to compose and send emails with attachments via Gmail's SMTP server, using SSL encryption for secure communication. The app also supports HTML editing for email content, allowing you to create rich-text emails.
 
 # Features
@@ -21,7 +21,7 @@ Email Validation: Verifies email addresses using regular expressions.
 # Recursive Algorithm for File Paths
 The app uses a recursive algorithm to handle file paths when attaching files. It ensures smooth extraction of filenames and proper attachment handling.
 
-# Security Notice
+# Security Notice !
 Ensure you use an app-specific password or OAuth2 if you're using Gmail's 2FA.
 
 # DEMO
@@ -35,4 +35,4 @@ Ensure you use an app-specific password or OAuth2 if you're using Gmail's 2FA.
 
 [html.txt](https://github.com/user-attachments/files/18629710/html.txt) This an HTML prompt to put it in the HTML-Text-Edit
 
-# I was excited to share this project with the GitHub community. I developed this app a year and half ago and found it to be a valuable and rewarding experience. I hope you all like it !
+# I was excited to share this project with the GitHub community. I developed this app a year and half ago and found it to be a valuable and rewarding experience. I hope you all like it !!
